@@ -1,0 +1,3 @@
+Hello! This is my Python and Bash assignment.
+I am learning file handling in Python.
+Python can create and write text files.
